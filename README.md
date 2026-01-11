@@ -4,6 +4,12 @@
 
 <h2 align="left">About me</h2>
 
+Hi, I’m a developer who enjoys building things and learning how they work under the hood. I’ve been programming for several years and have experience with both low-level and high-level languages. I’m comfortable working on small tools, experiments, and larger projects, and I’m always interested in improving code quality and performance.
+
+I mainly work with C, C++, C#, Java, Python, JavaScript, HTML, and CSS, but I’m not limited to them and enjoy exploring new technologies when needed. I have experience using tools like VS Code, Visual Studio, Figma, and other development and design software as part of my workflow.
+
+I value clean, readable code, practical solutions, and continuous learning. Currently, I focus on sharpening my skills, experimenting with new ideas, and building projects that help me grow as a developer.
+
 - 🔭 I'm currently working on **an autoclicker**
 
 - 🌱 I'm currently learning **C++ and Java**
